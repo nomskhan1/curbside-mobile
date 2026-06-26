@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Integral Valet</string>
+    <string name="title_activity_main">Integral Valet</string>
+    <string name="package_name">com.curbside.valet</string>
+    <string name="custom_url_scheme">com.curbside.valet</string>
+</resources>
