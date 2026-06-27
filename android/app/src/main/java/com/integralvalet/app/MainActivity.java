@@ -1,4 +1,4 @@
-package com.curbside.valet;
+package com.integralvalet.app;
 
 import com.getcapacitor.BridgeActivity;
 
