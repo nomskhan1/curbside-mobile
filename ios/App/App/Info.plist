@@ -45,5 +45,9 @@
 	</array>
 	<key>UIViewControllerBasedStatusBarAppearance</key>
 	<true/>
+        <key>NSCameraUsageDescription</key>
+    <string>Integral Valet needs camera access so you can take a photo of a vehicle.</string>
+    <key>NSPhotoLibraryUsageDescription</key>
+    <string>Integral Valet needs photo library access so you can choose a vehicle photo.</string>
 </dict>
 </plist>
