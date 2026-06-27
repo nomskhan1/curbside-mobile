@@ -1,7 +1,7 @@
 import { CapacitorConfig } from "@capacitor/cli";
 
 // IMPORTANT: replace this with your actual live Vercel URL.
-const PRODUCTION_URL = "https://integral-valet.vercel.app";
+const PRODUCTION_URL = "https://integralvalet.app";
 
 const config: CapacitorConfig = {
   appId: "com.integralvalet.app",
