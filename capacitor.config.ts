@@ -5,7 +5,7 @@ const PRODUCTION_URL = "https://integralvalet.app";
 
 const config: CapacitorConfig = {
   appId: "com.integralvalet.app",
-  appName: "Integral Valet",
+  appName: "Bring My Car",
   webDir: "www",
   server: {
     // Loads your real, already-deployed app inside the native shell.

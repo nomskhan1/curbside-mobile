@@ -5,7 +5,7 @@
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleDisplayName</key>
-        <string>Integral Valet</string>
+        <string>Bring My Car</string>
 	<key>CFBundleExecutable</key>
 	<string>$(EXECUTABLE_NAME)</string>
 	<key>CFBundleIdentifier</key>
@@ -46,8 +46,8 @@
 	<key>UIViewControllerBasedStatusBarAppearance</key>
 	<true/>
         <key>NSCameraUsageDescription</key>
-    <string>Integral Valet needs camera access so you can take a photo of a vehicle.</string>
+    <string>Bring My Car needs camera access so you can take a photo of a vehicle.</string>
     <key>NSPhotoLibraryUsageDescription</key>
-    <string>Integral Valet needs photo library access so you can choose a vehicle photo.</string>
+    <string>Bring My Car needs photo library access so you can choose a vehicle photo.</string>
 </dict>
 </plist>
